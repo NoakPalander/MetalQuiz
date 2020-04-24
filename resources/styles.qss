@@ -1,0 +1,25 @@
+/* QuizWidget body */
+QWidget {
+    background-color: #1F2833;
+    color: #66FCF1;
+}
+
+/* QuizWidget label */
+QLabel {
+    color: #C5C6C7;   
+}
+
+/* QuizWidget radiobutton(option) */
+QRadioButton[accessibleName="options"] {
+    color: #C5C6C7;
+}
+
+/* QuizWidget radiobutton(option) on-checked */
+QRadioButton:checked {
+    color: #66FCF1;
+}
+
+/* QuizWidget radiobutton(option) indicator on-checked */
+QRadioButton::indicator:checked {
+    color: #66FCF1;
+}

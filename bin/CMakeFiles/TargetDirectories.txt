@@ -1,0 +1,4 @@
+/home/vali/Documents/Coding/C++/Quiz/bin/CMakeFiles/rebuild_cache.dir
+/home/vali/Documents/Coding/C++/Quiz/bin/CMakeFiles/Quiz.dir
+/home/vali/Documents/Coding/C++/Quiz/bin/CMakeFiles/edit_cache.dir
+/home/vali/Documents/Coding/C++/Quiz/bin/CMakeFiles/Quiz_autogen.dir

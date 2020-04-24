@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['_7ebasic_5fjson_585',['~basic_json',['../classnlohmann_1_1basic__json.html#a7d35fcb7c72f755a30ae433e58083eca',1,'nlohmann::basic_json']]],
+  ['_7ebinary_5freader_586',['~binary_reader',['../classnlohmann_1_1detail_1_1binary__reader.html#a18e0a63e22dbdad5f6964276b81b813a',1,'nlohmann::detail::binary_reader']]],
+  ['_7efile_5finput_5fadapter_587',['~file_input_adapter',['../classnlohmann_1_1detail_1_1file__input__adapter.html#af96552e4560be08b201e62a36e6b6189',1,'nlohmann::detail::file_input_adapter']]],
+  ['_7einput_5fadapter_5fprotocol_588',['~input_adapter_protocol',['../structnlohmann_1_1detail_1_1input__adapter__protocol.html#a92dac74def4ac5adacd0684088bd4082',1,'nlohmann::detail::input_adapter_protocol']]],
+  ['_7einput_5fbuffer_5fadapter_589',['~input_buffer_adapter',['../classnlohmann_1_1detail_1_1input__buffer__adapter.html#ac242b822b2f6772e5fc682ddb80cb066',1,'nlohmann::detail::input_buffer_adapter']]],
+  ['_7einput_5fstream_5fadapter_590',['~input_stream_adapter',['../classnlohmann_1_1detail_1_1input__stream__adapter.html#a2d71eb469267abd864f765481d1e823f',1,'nlohmann::detail::input_stream_adapter']]],
+  ['_7ejson_5fref_591',['~json_ref',['../classnlohmann_1_1detail_1_1json__ref.html#a8bcd4cfcafe952ce5140f8cb35ebe2f6',1,'nlohmann::detail::json_ref']]],
+  ['_7ejson_5fsax_592',['~json_sax',['../structnlohmann_1_1json__sax.html#af31bacfa81aa7818d8639d1da65c8eb5',1,'nlohmann::json_sax']]],
+  ['_7ejson_5fsax_5fdom_5fcallback_5fparser_593',['~json_sax_dom_callback_parser',['../classnlohmann_1_1detail_1_1json__sax__dom__callback__parser.html#a54ffcdfb0a8c5c9a876cd003b404ef4b',1,'nlohmann::detail::json_sax_dom_callback_parser']]],
+  ['_7ejson_5fsax_5fdom_5fparser_594',['~json_sax_dom_parser',['../classnlohmann_1_1detail_1_1json__sax__dom__parser.html#a4b93deb5c1d716dcfb33b3ed8a00ac4d',1,'nlohmann::detail::json_sax_dom_parser']]],
+  ['_7elexer_595',['~lexer',['../classnlohmann_1_1detail_1_1lexer.html#a2f2ef6f5aca9a0c48fcfb1290f7b2b0d',1,'nlohmann::detail::lexer']]],
+  ['_7emainwindow_596',['~MainWindow',['../class_main_window.html#ae98d00a93bc118200eeef9f9bba1dba7',1,'MainWindow']]],
+  ['_7enonesuch_597',['~nonesuch',['../structnlohmann_1_1detail_1_1nonesuch.html#a7b1119845860e548b67f1644a2084373',1,'nlohmann::detail::nonesuch']]],
+  ['_7eoutput_5fadapter_5fprotocol_598',['~output_adapter_protocol',['../structnlohmann_1_1detail_1_1output__adapter__protocol.html#ad71cdc057030f8a775a191face25061a',1,'nlohmann::detail::output_adapter_protocol']]],
+  ['_7epagewidget_599',['~PageWidget',['../class_page_widget.html#a6fe57c5d1b0c4206d1137071da6ef832',1,'PageWidget']]],
+  ['_7equizwidget_600',['~QuizWidget',['../class_quiz_widget.html#a9833b23146d8886f0be57da43764dadd',1,'QuizWidget']]],
+  ['_7eresultwidget_601',['~ResultWidget',['../class_result_widget.html#aa43d0cad7846319774387efcf79122f0',1,'ResultWidget']]],
+  ['_7escorewidget_602',['~ScoreWidget',['../class_score_widget.html#a651a84ba1074d7d9f05532593cd68be3',1,'ScoreWidget']]],
+  ['_7eserializer_603',['~serializer',['../classnlohmann_1_1detail_1_1serializer.html#aa6c62b51cbebb185307df851dc0167f0',1,'nlohmann::detail::serializer']]]
+];

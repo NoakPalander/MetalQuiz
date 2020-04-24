@@ -1,0 +1,74 @@
+{
+    "qna": [
+        {
+            "q": "Who is the lead singer of the Cannibal Corpse?",
+            "opt": [ "George Fisher", "Mike Patton", "Jared Dines", "Philip Hall" ],
+            "a": "George Fisher"
+        },
+        {
+            "q": "Which of these bands is not considered to be death metal?",
+            "opt": [ "Hour of Penance", "Obscura", "At the Gates", "Decide", "Ghost B.C"],
+            "a": "Ghost B.C"
+        },
+        {
+            "q": "Which of these is not a sub-genre of death metal?",
+            "opt": [ "Grindcore", "Thrash Metal", "Death 'n' Roll", "Deathcore", "Doom Metal" ],
+            "a": "Thrash Metal"
+        },
+        {
+            "q": "Which is a characteristic not commonly seen in death metal?",
+            "opt": [ "Growling/screaming", "Breakdowns", "Blast beats", "High tempo" ],
+            "a": "Breakdowns"
+        },
+        {
+            "q": "Which of these is a Christian death metal band?",
+            "opt": [ "Mortification", "Whitechapel", "At the Gates", "Possessed", "Demigod", "Atheist" ],
+            "a": "Mortification"
+        },
+        {
+            "q": "Where does the band carcass originate?",
+            "opt": [ "Mexico", "Sweden", "England", "Canada", "USA", "Ireland" ],
+            "a": "England"
+        },
+        {
+            "q": "What is the main lyrical focus of the band Cattle Decapitation",
+            "opt": [ "Hell & Damination", "The environment", "Philosophy", "Death & torture", "Politics" ],
+            "a": "The environment"
+        },
+        {
+            "q": "Which band debuted in 1990 with the album Left Hand Path, and is thought to be one of the most influential Swedish death metal groups?",
+            "opt": [ "Entombed", "Sepultra", "Dark Tranquility", "Death" ],
+            "a": "Entombed"
+        },
+        {
+            "q": "In the early 1990s, a large death metal culture began to center around this city, which is considered to be the birth-location of melodeath?",
+            "opt": [ "Stockholm", "Gothenburg", "Malmo", "Helsinki" ],
+            "a": "Gothenburg"
+        },
+        {
+            "q": "In which country did the death metal movement of the early 1990s not gain very much popularity when compared to the rest of Scandinavia?",
+            "opt": [ "Sweden", "Norway", "Finland", "Denmark" ],
+            "a": "Denmark"
+        },
+        {
+            "q": "Bands such as Ensiferum, Finntroll, and Amon Amarth are all part of a 'new' subgenre called?",
+            "opt": [ "Nature-metal", "Viking-metal", "Winter-metal", "Christian-metal" ],
+            "a": "Viking-metal"
+        },
+        {
+            "q": "Which of these deathmetal bands have a female main-vocalist?",
+            "opt": [ "Arch Enemy", "Children of Bodom", "Amorphis", "Shadow of Intent" ],
+            "a": "Arch Enemy"
+        },
+        {
+            "q": "Which Children of Bodom album, received a gold certification in Finland, and is said to have made them famous?",
+            "opt": [ "Halo of Blood", "I Worship Chaos", "Hexed", "Follow the Reaper" ],
+            "a": "Follow the Reaper"
+        },
+        {
+            "q": "Which was the first official 'death metal' band ever?",
+            "opt": [ "In Flames", "Death", "Dark Tranquility", "Venom" ],
+            "a": "Death"
+        }
+    ] 
+}
